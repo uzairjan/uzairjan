@@ -9,4 +9,4 @@
 - 📫 How to reach me: ...[LinkedIn Account](https://www.linkedin.com/in/uzair-khan-64a60a147/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half finished
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
