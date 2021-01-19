@@ -2,7 +2,7 @@
 
 ## Welcome
 
-![uzairjan's github stats](https://github-readme-stats.vercel.app/api?username=uzairjan&hide=prs&text_color=586069&layout=compact&hide_border=true&bg_color=fff)
+![uzairjan's github stats](https://github-readme-stats.vercel.app/api?username=uzairjan)
 ![uzairjan's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairjan&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true)
 
 ### Highlights
